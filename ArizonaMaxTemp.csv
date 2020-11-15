@@ -1,0 +1,19 @@
+March 2020 Arizona County Maximum Temperature
+Units: Degrees Fahrenheit
+Missing: -99
+"Location ID","Location","Value","Rank","1901-2000 Mean","Anomaly (1901-2000 base period)"
+AZ-001,"Apache County",57.3,99,53.5,3.8
+AZ-003,"Cochise County",66.1,51,66.8,-0.7
+AZ-005,"Coconino County",55.6,60,55.1,0.5
+AZ-007,"Gila County",62.6,66,61.8,0.8
+AZ-009,"Graham County",64.0,58,63.9,0.1
+AZ-011,"Greenlee County",61.0,68,60,1.0
+AZ-012,"La Paz County",71.3,30,74.1,-2.8
+AZ-013,"Maricopa County",72.2,46,73.2,-1.0
+AZ-015,"Mohave County",61.1,40,63,-1.9
+AZ-017,"Navajo County",57.6,87,54.9,2.7
+AZ-019,"Pima County",71.1,53,71.3,-0.2
+AZ-021,"Pinal County",71.7,59,71.4,0.3
+AZ-023,"Santa Cruz County",65.2,49,65.7,-0.5
+AZ-025,"Yavapai County",60.8,46,61.8,-1.0
+AZ-027,"Yuma County",73.4,24,76.4,-3.0

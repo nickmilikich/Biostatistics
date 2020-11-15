@@ -1,0 +1,19 @@
+March 2020 Arizona County Minimum Temperature
+Units: Degrees Fahrenheit
+Missing: -99
+"Location ID","Location","Value","Rank","1901-2000 Mean","Anomaly (1901-2000 base period)"
+AZ-001,"Apache County",31.0,124,26.3,4.7
+AZ-003,"Cochise County",38.9,105,36.1,2.8
+AZ-005,"Coconino County",32.2,109,28.6,3.6
+AZ-007,"Gila County",39.0,108,35.4,3.6
+AZ-009,"Graham County",40.1,105,37.2,2.9
+AZ-011,"Greenlee County",36.4,111,32.8,3.6
+AZ-012,"La Paz County",49.0,97,46.6,2.4
+AZ-013,"Maricopa County",46.9,84,45,1.9
+AZ-015,"Mohave County",40.8,90,38.8,2.0
+AZ-017,"Navajo County",31.3,111,27.7,3.6
+AZ-019,"Pima County",44.0,89,42.2,1.8
+AZ-021,"Pinal County",45.7,95,43.6,2.1
+AZ-023,"Santa Cruz County",39.1,109,35.9,3.2
+AZ-025,"Yavapai County",37.1,102,34.4,2.7
+AZ-027,"Yuma County",49.4,97,46.9,2.5

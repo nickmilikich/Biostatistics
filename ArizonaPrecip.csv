@@ -1,0 +1,19 @@
+March 2020 Arizona County Precipitation
+Units: Inches
+Missing: -99
+"Location ID","Location","Value","Rank","1901-2000 Mean","Anomaly (1901-2000 base period)"
+AZ-001,"Apache County",1.22,85,1.12,0.1
+AZ-003,"Cochise County",2.84,124,0.79,2.05
+AZ-005,"Coconino County",2.12,105,1.31,0.81
+AZ-007,"Gila County",3.44,109,2.1,1.34
+AZ-009,"Graham County",2.03,105,1.18,0.85
+AZ-011,"Greenlee County",1.86,107,1.18,0.68
+AZ-012,"La Paz County",2.04,124,0.54,1.5
+AZ-013,"Maricopa County",2.62,118,0.95,1.67
+AZ-015,"Mohave County",3.49,124,1.12,2.37
+AZ-017,"Navajo County",1.68,109,1.01,0.67
+AZ-019,"Pima County",1.99,115,0.89,1.1
+AZ-021,"Pinal County",2.11,109,1.16,0.95
+AZ-023,"Santa Cruz County",2.59,113,1.07,1.52
+AZ-025,"Yavapai County",3.98,118,1.63,2.35
+AZ-027,"Yuma County",2.16,126,0.43,1.73
